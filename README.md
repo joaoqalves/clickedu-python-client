@@ -9,12 +9,13 @@ A modern, clean Python client for interacting with the ClickEdu API. ClickEdu is
 
 **This is NOT an official ClickEdu client.** This is an unofficial, third-party library created for educational and development purposes. The authors are not affiliated with ClickEdu and assume no liability for any issues, data loss, or problems that may arise from using this software. Use at your own risk.
 
+**AI-Generated Code:** Most of this codebase was generated using AI assistance through Cursor IDE. While the code has been tested and reviewed, please be aware that AI-generated code may contain errors or unexpected behavior. Always review and test thoroughly before using in production environments.
+
 ## Features
 
-- 🏗️ **Clean Architecture**: Modular, maintainable codebase
+- 🏗️ **Clean architecture**: Modular, maintainable codebase
 - ⚡ **Modern Python**: Type hints, dataclasses, proper error handling
 - 🔧 **Configurable**: Environment-based configuration
-- 📝 **Comprehensive Testing**: 65+ tests covering all functionality
 
 ## Quick Start
 
